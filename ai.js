@@ -12,7 +12,7 @@ function processDiagram() {
             reader.onload = function (e) {
                 const imageUrl = e.target.result;
 
-                // Simulate AI processing (replace this with actual AI logic)
+                
                 const aiDescription = simulateAIDescription();
 
                 
